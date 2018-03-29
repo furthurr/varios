@@ -1,0 +1,27 @@
+"#winTest": {
+	backgroundColor:"white"
+}
+"#imgenTomada":{
+	width: '95%',
+	image :'/temp.png',
+}
+"#labelClickFot":{
+	text:'Click',
+	color: 'white',
+	textAlign: Ti.UI.TEXT_ALIGNMENT_CENTER,
+	height: 40,
+	left: 30,
+	width: 100,
+	backgroundColor: "red",
+	bottom: 10
+}
+"#labelClickSend":{
+	text:'Send',
+	color: 'white',
+	textAlign: Ti.UI.TEXT_ALIGNMENT_CENTER,
+	height: 40,
+	right: 30,
+	width: 100,
+	backgroundColor: "red",
+	bottom: 10
+}

@@ -1,0 +1,9 @@
+<Alloy>
+	<Window id="winTest">
+		<ImageView id="imgenTomada" onClick="clickImage"></ImageView>
+		<Label id="labelClickFot" onClick="clickImgCamara"></Label>
+		<Label id="labelClickSend" onClick="enviaImg"></Label>
+
+
+	</Window>
+</Alloy>
